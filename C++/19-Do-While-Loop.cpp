@@ -18,8 +18,7 @@ int main ()
     {
         std::cout << "Masukkan angka positif #: ";
         std::cin >> angka;
-    }
-    while (angka < 0);
+    } while (angka < 0);
 
     std::cout << "Angka # adalah: " << angka;
 

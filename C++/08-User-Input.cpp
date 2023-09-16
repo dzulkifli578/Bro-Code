@@ -11,5 +11,6 @@ int main ()
     std::cin >> nama;
 
     std::cout << "Halo " << nama;
+    
     return 0;
 }  
