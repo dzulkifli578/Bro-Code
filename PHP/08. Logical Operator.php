@@ -1,7 +1,7 @@
 <?php
 
     /*
-        operator logika = membandingkan 2 atau lebih kondisi
+        operator logika = membandingkan 2 kondisi atau lebih
 
         &&              = true apabila semua kondisi benar
         ||              = true apabila setidaknya salah satu kondisi benar

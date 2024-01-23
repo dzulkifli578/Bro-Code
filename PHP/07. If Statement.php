@@ -1,9 +1,9 @@
 <?php
     
     /*
-        if statement = jika kondisi benar, akan melakukan sesuatu
-        else if      = jika kondisi if salah, akan melakukan sesuatu
-        else         = jika kondisi elseif salah, akan melakukan sesuatu
+        if statement = melakukan sesuatu jika kondisinya benar
+        else if      = melakukan sesuatu jika kondisi if salah
+        else         = melakukan sesuatu jika kondisi if-else if salah
     */
     
     $umur = 0;
